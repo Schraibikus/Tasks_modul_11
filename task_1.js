@@ -42,6 +42,7 @@ function getEvenOddElementsFromArray(array) {
 
 getEvenOddElementsFromArray(array1);
 console.log('\n');
+
 getEvenOddElementsFromArray(array2);
 console.log('\n');
 
